@@ -9,8 +9,8 @@
   
   :repositories [["apache" "http://repository.apache.org/snapshots/"]
                  ["my.datomic.com" {:url "https://my.datomic.com/repo"
-                                    :username [:gpg :env]
-                                    :password [:gpg :env]}]]
+                                    :username "rathengar.gaming@gmail.com"
+                                    :password "7ea50316-0542-478a-8348-afef3eb93129"}]]
   
   :dependencies [[org.clojure/clojure "1.9.0-RC1"]
                  [org.clojure/test.check "0.9.0"]
